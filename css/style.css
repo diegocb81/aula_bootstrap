@@ -22,4 +22,14 @@ body{
 
 .parceiros{
     background-color: #3686be;
+    color: white;
+}
+
+.servicos{
+    background-color: lightgray;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
 }
